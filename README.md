@@ -5,4 +5,4 @@ A simultaneous, zero-sum game, it has three possible outcomes: a draw, a win or 
 Live -
 
 ##Live Demo
-[click here](https://github.com/Shiva-pal008/rockpaperscissors-main.git)
+[click here](https://shiva-pal008.github.io/ROCK-PAPER-GAME/)
